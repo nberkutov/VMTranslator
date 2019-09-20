@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Я\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Я\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_VMTranslator.1954962490.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Я\source\repos\VMTranslator" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="VMTranslator" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CodeWriter.cs" t="Include" />
+        <e p="CTypes.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Parser.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="VMTranslator.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="VMTranslator.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

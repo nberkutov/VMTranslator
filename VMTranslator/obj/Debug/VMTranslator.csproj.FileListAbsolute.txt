@@ -1,0 +1,7 @@
+C:\Users\Я\source\repos\VMTranslator\VMTranslator\bin\Debug\VMTranslator.exe.config
+C:\Users\Я\source\repos\VMTranslator\VMTranslator\bin\Debug\VMTranslator.exe
+C:\Users\Я\source\repos\VMTranslator\VMTranslator\bin\Debug\VMTranslator.pdb
+C:\Users\Я\source\repos\VMTranslator\VMTranslator\obj\Debug\VMTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\VMTranslator\VMTranslator\obj\Debug\VMTranslator.exe
+C:\Users\Я\source\repos\VMTranslator\VMTranslator\obj\Debug\VMTranslator.pdb
+C:\Users\Я\source\repos\VMTranslator\VMTranslator\obj\Debug\VMTranslator.csprojAssemblyReference.cache
